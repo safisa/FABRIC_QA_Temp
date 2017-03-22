@@ -1,0 +1,8 @@
+.svn
+.classpath
+.project
+VirtualDB_Data
+_srcDynamic
+_bin
+TortoiseGitProc.exe /command:commit /path:"C:\K2View\Projects Fabric\Fabric1" /logmsg:"" /closeonend:0
+
